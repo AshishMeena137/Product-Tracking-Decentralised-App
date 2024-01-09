@@ -1,0 +1,27 @@
+/* .manucontainer {
+   /* font-size: 2px;
+} */
+
+.manu {
+   font-size: 20px;
+   position: relative;
+   top: -250px;
+   /* padding: 2px; */
+   /* margin: 2px; */
+}
+
+.manu span {
+    margin: 40px;
+}
+
+.manu span a {
+    color: #11e6ee;
+}
+
+.message {
+    font-size: 10px;
+}
+
+.message h1 {
+    color: antiquewhite;
+}
